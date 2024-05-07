@@ -45,9 +45,5 @@ class Movie {
 }
 
 ?>
-ciao
 <?php
-// echo "Adult: " . $movie->adult . "<br>";
-// echo "Title: " . $movie->title . "<br>";
-// echo "Overview: " . $movie->overview . "<br>";
-// var_dump ($arrMovies);
+
